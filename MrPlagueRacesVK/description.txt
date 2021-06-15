@@ -1,0 +1,14 @@
+[c/ffde73:Description: ]
+This mod adds new races to MrPlague's Authentic Races, for now it only adds two but it will be increased overtime.
+
+[c/ffde73:Races: ]
+- Deer
+- Bear
+- more to come...
+
+[c/ffde73:Credits: ]
+- MrPlague (spriter, animator, and coder)
+- CrocWithShades (betatester)
+- Dragons Tired (betatester)
+- Blaquestone (gameplay balance)
+- Fallout_Patriot (gameplay balance, betatester)

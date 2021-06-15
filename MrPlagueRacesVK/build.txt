@@ -1,0 +1,4 @@
+displayName = [c/ffde73:VamnKuma's Races]
+author = VamnKuma
+modReferences = MrPlagueRaces
+version = 0.1
